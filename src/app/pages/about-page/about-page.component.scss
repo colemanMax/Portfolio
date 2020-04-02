@@ -1,0 +1,37 @@
+.welcome-message {
+  width: 100%;
+  height: 300px;
+  background-color: #F8E5EE;
+  text-align: center;
+  color: #3D1308;
+  font-size: 48px;
+
+  .name {
+    color: #9F2042;
+  }
+}
+
+.profile-picture {
+
+  margin: 30px 60px 0px 0px;
+
+  img {
+    border-radius: 300px;
+    width: 300px;
+  }
+}
+
+.about-body {
+  margin: 60px;
+}
+
+.about-title {
+  justify-content: center;
+  color: #3D1308;
+  font-size: 48px;
+  margin-bottom: 30px;
+}
+
+.about-text {
+
+}
